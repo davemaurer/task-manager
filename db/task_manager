@@ -3,13 +3,16 @@ tasks:
 - id: 2
   title: test-2
   description: testing-2
-- id: 3
-  title: third task
-  description: this is the third task
 - id: 4
   title: blah
   description: blah blah
 - id: 5
   title: bleh
   description: oh yeah
-total: 5
+- id: 7
+  title: blewy
+  description: kablewy
+- id: 8
+  title: bleg
+  description: blegoww!
+total: 8
