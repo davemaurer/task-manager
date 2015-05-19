@@ -1,9 +1,15 @@
 ---
 tasks:
-- id: 1
-  title: test
-  description: testing
 - id: 2
   title: test-2
   description: testing-2
-total: 2
+- id: 3
+  title: third task
+  description: this is the third task
+- id: 4
+  title: blah
+  description: blah blah
+- id: 5
+  title: bleh
+  description: oh yeah
+total: 5
